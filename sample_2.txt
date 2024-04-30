@@ -2,3 +2,6 @@ semester_2 subjects:
 OOP
 SCM
 SDLC
+
+QTC
+ENGLISH
